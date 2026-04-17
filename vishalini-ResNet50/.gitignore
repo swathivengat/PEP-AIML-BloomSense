@@ -1,0 +1,19 @@
+# Dataset (too large)
+archive/
+flower/
+
+# Trained model weights (too large)
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# Virtual env
+venv/
+.env
